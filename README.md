@@ -50,7 +50,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/rizzzabh/devcart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizzzabh&repo=devcart&theme=tokyonight" alt="Devcart" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizzzabh&repo=devcart&theme=tokyonight&show_description=true&description_lines=3" alt="Devcart" />
   </a>
 </div>
 
